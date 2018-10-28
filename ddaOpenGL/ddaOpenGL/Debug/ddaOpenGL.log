@@ -1,0 +1,10 @@
+﻿  dda.cpp
+c:\users\reqtear\desktop\ddaopengl\ddaopengl\dda.cpp(83): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\reqtear\desktop\ddaopengl\ddaopengl\dda.cpp(84): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\reqtear\desktop\ddaopengl\ddaopengl\dda.cpp(87): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\reqtear\desktop\ddaopengl\ddaopengl\dda.cpp(88): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\reqtear\desktop\ddaopengl\ddaopengl\dda.cpp(103): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\reqtear\desktop\ddaopengl\ddaopengl\dda.cpp(111): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\reqtear\desktop\ddaopengl\ddaopengl\dda.cpp(62): warning C4101: 'sy': unreferenced local variable
+c:\users\reqtear\desktop\ddaopengl\ddaopengl\dda.cpp(62): warning C4101: 'sx': unreferenced local variable
+  ddaOpenGL.vcxproj -> C:\Users\Reqtear\Desktop\ddaOpenGL\Debug\ddaOpenGL.exe

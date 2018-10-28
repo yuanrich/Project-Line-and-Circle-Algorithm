@@ -1,0 +1,6 @@
+﻿  bresenham.cpp
+c:\users\reqtear\desktop\bresenhamopengl\bresenhamopengl\bresenham.cpp(85): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\reqtear\desktop\bresenhamopengl\bresenhamopengl\bresenham.cpp(86): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\reqtear\desktop\bresenhamopengl\bresenhamopengl\bresenham.cpp(61): warning C4101: 'sy': unreferenced local variable
+c:\users\reqtear\desktop\bresenhamopengl\bresenhamopengl\bresenham.cpp(61): warning C4101: 'sx': unreferenced local variable
+  bresenhamOpenGL.vcxproj -> C:\Users\Reqtear\Desktop\bresenhamOpenGL\Debug\bresenhamOpenGL.exe

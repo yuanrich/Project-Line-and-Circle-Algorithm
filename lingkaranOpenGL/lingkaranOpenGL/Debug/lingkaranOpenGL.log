@@ -1,0 +1,4 @@
+﻿  lingkaran.cpp
+c:\users\reqtear\desktop\lingkaranopengl\lingkaranopengl\lingkaran.cpp(69): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\reqtear\desktop\lingkaranopengl\lingkaranopengl\lingkaran.cpp(70): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  lingkaranOpenGL.vcxproj -> C:\Users\Reqtear\Desktop\lingkaranOpenGL\Debug\lingkaranOpenGL.exe
